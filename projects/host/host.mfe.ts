@@ -11,7 +11,7 @@ import {SharedMfeModule} from '@angular-mfe/shared';
 
 @Component({
   template: `
-    <h1>Host MFE</h1>
+    <h1>Caosa me llegas al chompi</h1>
     <ng-container #vc></ng-container>
   `,
   selector: 'host-mfe'
